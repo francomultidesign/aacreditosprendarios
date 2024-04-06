@@ -20811,7 +20811,7 @@ h5, .h5, h6, .h6 {
 }
 
 .hero-section .hero-background {
-  background-image: url("../img/illustrations/BG.webp");
+  background-image: url("../img/illustrations/BG.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -20861,6 +20861,8 @@ h5, .h5, h6, .h6 {
   width: 110% !important;
   margin-left: -1.25rem;
   margin-right: -1.25rem;
+  position: relative;
+  top: 2px;
 }
 
 .timeline .timeline-step-1, .timeline .timeline-step-2 {
